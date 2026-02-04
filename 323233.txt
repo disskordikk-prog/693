@@ -1,0 +1,59 @@
+Everything:
+ 
+kami | Impact | Wurst | inertia | LiquidBounce | NeverHook | Zamorozka | Minced | Wexside | Expensive | Wild | Fluger | keazclient | xray | x-ray | meteor | Nursultan | Avalone | Akrien | celestial | calestial | deadcode | nova-dev | BebraWare | RynWare | Neverware | Aristois | FreeCam | Baritone | Meteorclient | BleachHack | Matix | pivoclient | cabaletta | GishCode | Eternity | RichPremium | R3D | boberware | nurik | .celka | celka | .akr | .wex | .nur | Ponos | EmortalityClient | Dreampool | Clowdy | Rasty | DiamondSim | AutoAttack | Jessica | InvMove | TopkaAutoBuy | ElytraSwap | ArmorHotSwap | GoProne | autofish | Element3D | BabkaLogs | NewCode | VenusWare | Catlavan | InventoryProfilesNext | Arbuz | VenusFree | newlauncher | flauncher | newcode | ncode | autoclicky | DeltaLoader | Delta | Wenose | Monoton | Vredux | ShineClient | DarkSide | Haruka | Excellent | Venus | Dreamcore | Avalora | Aristois | Wurst | Dimasik | PULSAR | vallhala |
+ 
+.bat size:14kb
+ 
+RegScanner:
+ 
+Celestial, Nursultan, Expensive, nova-dev, Akrien, WexSide, DeadCode, Wild, Avalon, Troxill, calestial, DreamPool, Excellent, inegay, Wissend, Elysium, Aurora, Verist, NewCode, VenusWare, Catlavan, DeltaLoader, Delta, Wenose, Monoton, DarkSide,
+ 
+HKLM\SOFTWARE\Microsoft\FuzzyDS\, HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\
+ 
+SystemInformer:
+ 
+***Детекты под моды***
+ 
+bushroot
+Derick1337
+SQUAD
+neathitbox
+onUpdate
+tickUpdate
+GuiSlider;I)V
+Hitbox [SIZE
+CvOAhgmhAixPvZnFDRN
+ch0ffa_box
+GlowEsp
+zh_cn.json
+aeshb
+dev.sxmurxy.topkahitboxes.helpers.render.GlowFilter$GlowRender
+CREATED_BY_WHYMAKUD
+$$$$$$$$$$$$$$$$$$$/$$$$$$$$$$$$$$$$$$$$/$$$$$$$$$$$$$$$$$$$$/$$$$$$
+paster idi naxuy
+11max_align_t
+jojmod/Dupe.class
+com/modid/HH/Gui
+[]_^A^YZAXAYAZA[
+@markcls
+zdcoder
+..destruct
+ 
+ ****основа****
+bushroot
+GlowEsp
+onUpdate
+SQUAD
+zh_cn.json
+11max_align_t
+0getenv
+
+
+***Детекты под приватные читы***
+ 
+0getenv
+triggerbot
+fvjocixprLAyc\Fmb
+A_A^A]A\A[AZAYAX]_^ZY[X
+stubborn.website
+XAX[XAXA[XAZAX
